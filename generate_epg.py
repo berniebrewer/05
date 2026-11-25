@@ -8,10 +8,10 @@ def generate_multi_channel_epg():
     
     channels = [
         {"id": "INFO.bud", "name": "INFO CHANNEL", "logo": DEFAULT_LOGO},
-        {"id": "Gameday.bud", "name": "Gameday Final", "logo": DEFAULT_LOGO},
-        {"id": "Movie.bud", "name": "Movie", "logo": DEFAULT_LOGO},
+        {"id": "Football.Dummy.us", "name": "Football", "logo": DEFAULT_LOGO},
+        {"id": "NFL.Dummy.us", "name": "NFL", "logo": DEFAULT_LOGO},
         {"id": "News.24.7.bud", "name": "News 24/7", "logo": DEFAULT_LOGO},
-        {"id": "Outdoors.bud", "name": "Outdoors", "logo": DEFAULT_LOGO},
+        {"id": "NFL.Replay.as", "name": "NFL Gameday Replay", "logo": DEFAULT_LOGO},
         {"id": "Channel5.bud", "name": "Channel Name 5", "logo": DEFAULT_LOGO},
         {"id": "Channel6.bud", "name": "Channel Name 6", "logo": DEFAULT_LOGO},
         {"id": "Channel7.bud", "name": "Channel Name 7", "logo": DEFAULT_LOGO},

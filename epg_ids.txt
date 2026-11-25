@@ -1,8 +1,8 @@
 INFO.bud
-Gameday.bud
-Movie.bud
+Football.Dummy.us
+NFL.Dummy.us
 News.24.7.bud
-Outdoors.bud
+NFL.Replay.as
 Channel5.bud
 Channel6.bud
 Channel7.bud
